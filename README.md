@@ -1,8 +1,11 @@
-Welcome!
-My name is Jack Amir-Ebrahimi.
-------------------------------
+# Welcome! My name is Jack Amir-Ebrahimi.
+## Games Developer Specialised in Programming
+---------------------------------------------
+Developing fun and enjoyable games
 
-
+- Specialises in C# and Unity, also with C++ experience
+- Check out my [Portfolio](https://amirebrahimi.co.uk/) for a deeper look at my work
+- Always willing to overcome tough problems with efficient solutions
 <!--
 **jackamirgames/jackamirgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
